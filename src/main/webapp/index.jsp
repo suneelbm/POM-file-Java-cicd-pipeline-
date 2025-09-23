@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Portfolio Website2025-Viet</title>
+    <title>Portfolio Website2024-Viet</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- linking css file -->

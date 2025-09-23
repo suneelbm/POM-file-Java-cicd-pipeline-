@@ -50,8 +50,8 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
-                    <h2 class="hero_title">Hi, I'm Viet</h2>
-                    <p class="hero_desc">I am a DevOps Engineer at Antoree</p>
+                    <h2 class="hero_title">Hi, I'm Suneel B M </h2>
+                    <p class="hero_desc">I am a DevOps Engineer </p>
                 </div>
             </div>
         </div>

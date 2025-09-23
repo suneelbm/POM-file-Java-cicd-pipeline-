@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Portfolio Website2024-Viet</title>
+    <title>Portfolio Website2025-VSuneel</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- linking css file -->
@@ -18,7 +18,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg fixed-top navbar-dark navbarScroll">
         <div class="container">
-            <a class="navbar-brand" href="#">Viet</a>
+            <a class="navbar-brand" href="#">Suneel</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -76,7 +76,7 @@
                     <div class="row mt-3">
                         <div class="col-md-6">
                             <ul>
-                                <li>Name: Mai Hoang Viet</li>
+                                <li>Name: Suneel</li>
                                 <li>Age: 22</li>
                                 <li>Occupation: DevOps Engineer</li>
 
@@ -84,7 +84,7 @@
                         </div>
                         <div class="col-md-6">
                             <ul>
-                                <li>Name: Mai Hoang Viet</li>
+                                <li>Name: Suneel</li>
                                 <li>Age: 22</li>
                                 <li>Occupation: DevOps Engineer</li>
 
